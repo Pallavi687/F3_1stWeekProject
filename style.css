@@ -1,0 +1,9 @@
+*{
+    background-color: blueviolet;
+}
+h1{
+    position:relative;
+    width: 70%;
+    left: 30%;
+    top: 30%;
+}
